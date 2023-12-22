@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @zqfparis
+- 👀 I’m interested in computational mechanics
+- 💞️ I’m looking to collaborate on FEM solver development
